@@ -1,2 +1,2 @@
 # crm
-stores projects for CRM
+Synergy CRM
